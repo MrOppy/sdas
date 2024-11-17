@@ -1,1 +1,0 @@
-// File can be removed as dark mode is no longer needed
